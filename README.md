@@ -18,7 +18,9 @@ Analyzed engagement patterns, identified bot activity, and evaluated content rea
 Tools used: MySQL, SQL Workbench, Excel.
 
 **View Project Documentation**
+
 (PDF)
+
 https://drive.google.com/file/d/1j_fvNphANQGRpbPMNCWs-5TOLPgkFE_G/view?usp=sharing
 
 **2. Hiring Process Analytics**
@@ -30,8 +32,11 @@ Resulted in recommendations to optimize recruitment and workforce planning.
 **Explore Project Details**
 
 (PDF)
+
 https://drive.google.com/file/d/1oZe6Q11xfu-5rL7dcRexBx3P6iLKYtj2/view?usp=drive_link
+
 (WORKSHEET)
+
 https://1drv.ms/x/c/c15cae2fb9b39f16/EaKAZI2nkfVDjrUa2AE87OEBCiFLgv3trAHS-TrTilZMJw?e=GhkWML
 
 **3. Bank Loan Case Study**
@@ -42,8 +47,11 @@ Simplified complex data relationships into easy-to-understand insights.
 **Check Presentation**
 
 (PDF)
+
 https://docs.google.com/presentation/d/16QnTHu6JFRCScezFub0TTR15ZrfkPiV3/edit?usp=drive_link&ouid=106967440033264738671&rtpof=true&sd=true
+
 (WORKSHEET)
+
 https://1drv.ms/x/c/c15cae2fb9b39f16/ESrP0WSuRyFAgMQSaHZ5bsoBF2SDFuQeq6gCj1vBpmtLtA?e=dBN8Tz
 
 **4. Operation Analytics and Investigating Metric Spike**
@@ -58,6 +66,7 @@ MySQL Workbench 8.0.
 **Show PDF**
 
 (PDF)
+
 https://drive.google.com/file/d/1ETF89AxOg7M-uWNQyhquhdxJaIf35_4F/view?usp=drive_link
 
 **5. IMDB Movie Analysis**
@@ -67,9 +76,13 @@ https://drive.google.com/file/d/1ETF89AxOg7M-uWNQyhquhdxJaIf35_4F/view?usp=drive
 .Analyzed budget impact on movie gross and profit margins.
 
 **Show link for more detail**
+
 (WORKBOOK)
+
 https://1drv.ms/w/c/c15cae2fb9b39f16/EZLC0yG19KxNkbGH_JAdIKwBBbTH8ldV5geJqvqIbGYnrg?e=9rOkkv
+
 (WORKSHEET)
+
 https://1drv.ms/x/c/c15cae2fb9b39f16/EdD-tvfyHgxJrqUfXgTNSBoBJtDduo53fMx7rqCLEGIgkQ?e=D3tbf7
 
 **6. Analyzing the Impact of Car Features on Price and Profitability**
@@ -86,8 +99,11 @@ Microsoft Excel (Pivot Tables, Charts, Power Query).
 **Show Project**
 
 (PDF)
+
 https://drive.google.com/file/d/14po_tnTLOsVxKew_4tB09nIymK9UOiB9/view?usp=drive_link
+
 (WORKSHEET)
+
 https://1drv.ms/x/c/c15cae2fb9b39f16/Ee7wz-KLPaZCqzmhF9p7gQ4BCzhNX2pM9nr97vJdTaKJjQ?e=uE7RNL
 
 Tools used: Microsoft Excel (Office 365).
@@ -104,9 +120,13 @@ Tools used: Microsoft Excel (Office 365).
 Microsoft Excel 2022.
 
 **Show Project**
+
 (PDF)
+
 https://drive.google.com/file/d/1d9pusT4DExwq2pDfRnw-THrh_1ojWYF5/view?usp=drive_link
+
 (WORKSHEET)
+
 https://1drv.ms/x/c/c15cae2fb9b39f16/EWxcZ4pnLl1Mm-OTXS2RsJUBQnWY-BCNZpVQr4JrefXywA?e=nlXBO7
 
 **Technical Skills & Tools**
