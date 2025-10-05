@@ -1,4 +1,4 @@
-# 📊 Data Insights Portfolio | Pranshu Singh Baghel  
+# 📊  Portfolio | Pranshu Singh Baghel  
 
 > Transforming raw data into actionable insights through Python, SQL, and Excel.  
 
