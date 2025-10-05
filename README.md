@@ -1,4 +1,4 @@
-📊 Data Insights Portfolio — Pranshu Singh Baghel
+📊 Portfolio — Pranshu Singh Baghel
 
 Welcome to my Data Analysis Portfolio, where I showcase hands-on projects that turn raw data into meaningful insights.
 I’m passionate about transforming datasets into actionable intelligence using Python, SQL, and Excel — driving data-backed decision-making and business value.
