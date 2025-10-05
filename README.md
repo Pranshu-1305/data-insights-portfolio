@@ -24,7 +24,7 @@ Lifelong learner, always exploring new analytical tools and technologies.
 Built a relational database to simulate Instagram interactions and analyze engagement patterns.
 Identified potential bot activity, tracked content reach, and explored user behavior trends.
 Tools: MySQL, SQL Workbench, Excel
-📄 View Project Documentation (PDF)
+📄 https://drive.google.com/file/d/1j_fvNphANQGRpbPMNCWs-5TOLPgkFE_G/view
 
 2️⃣ Hiring Process Analytics
 
