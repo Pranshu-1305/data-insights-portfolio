@@ -114,7 +114,7 @@ Below are some of my most impactful analytics projects — complete with documen
 ## 💬 Let’s Connect!  
 
 📧 **Email:** [pranshubaghel6@gmail.com](mailto:pranshubaghel6@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/pranshu-singh-baghel](https://linkedin.com/in/pranshu-singh-baghel)  
+💼 **LinkedIn:** [linkedin.com/in/pranshu-singh-baghel](https://linkedin.com/in/pranshu-singh-baghel6)  
 🌐 **Portfolio (GitHub Pages):** [https://yourusername.github.io/data-insights-portfolio](https://yourusername.github.io/data-insights-portfolio)  
 🐙 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
 
